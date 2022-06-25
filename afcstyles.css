@@ -4,7 +4,7 @@
 html {background-color: #Fff5ef}
 
 #top {
-	font-size: 30px;
+	font-size: 20px;
 	font-family: museo, serif;
 	font-weight: 700;
 	font-style: normal;
@@ -14,7 +14,7 @@ html {background-color: #Fff5ef}
 body{
 	font-family: museo, serif;
 	font-weight: 300;
-	font-size: 20px;
+	font-size: 15px;
 	color:  #0020ff;
 	display: inline-block;  padding: 50px 20px; border: 10px; margin: 20px;
 }
